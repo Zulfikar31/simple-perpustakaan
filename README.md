@@ -10,7 +10,7 @@ Perpustakaan yang ramah pustakawan
   
 2. Meminjam buku, lalu mengembalikannya
 3. Melihat daftar pinjaman buku
-4. Login jika sudah membuat akun dan meminjam buku
+4. Login jika sudah membuat akun dan ingin meminjam buku
 5. Register jika ingin meminjam buku dan membuat akun
 
 # inisialisasi awal
